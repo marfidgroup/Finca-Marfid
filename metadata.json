@@ -1,0 +1,7 @@
+{
+  "name": "Finca Marfid - Web Oficial",
+  "description": "Sitio web premium para Finca Marfid, especializada en la producción responsable de cacao y ganado de alta calidad en Ecuador.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
